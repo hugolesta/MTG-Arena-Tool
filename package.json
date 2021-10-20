@@ -88,7 +88,7 @@
     "npm": "^6.9.0",
     "qs": "^6.7.0",
     "queue": "^4.5.1",
-    "striptags": "^3.1.1",
+    "striptags": "^3.2.0",
     "time-elements": "^2.0.0",
     "vanilla-picker": "^2.8.1"
   },
